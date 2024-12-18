@@ -6,6 +6,10 @@ rgba(255, 17, 85, 0.43) --- Cores original base
 #ff1155
 
 
+Mais escuro
+rgba(153,108,42, 0.8)
+#996c2a
+
 
 rgb(255,181,71)
 rgba(255,181,71, 0.8)   --- cores primaria
@@ -17,3 +21,5 @@ rgba(255,181,71, 0.8)   --- cores primaria
 rgb(255,205,132)
 rgba(255,205,132, 0.8)    --- cores secundarias
 #ffcd84
+
+181.215.254.182
