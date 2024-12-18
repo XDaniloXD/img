@@ -1,0 +1,19 @@
+
+
+
+rgb(255, 17, 85)
+rgba(255, 17, 85, 0.43) --- Cores original base
+#ff1155
+
+
+
+rgb(255,181,71)
+rgba(255,181,71, 0.8)   --- cores primaria
+#ffB547
+
+
+
+
+rgb(255,205,132)
+rgba(255,205,132, 0.8)    --- cores secundarias
+#ffcd84
